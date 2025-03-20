@@ -14,6 +14,6 @@ public class DeployonrenderApplication {
 	}
 	@GetMapping("/hello")
 	public String helloWorld(){
-		return "hello world!";
+		return "hello world2!";
 	}
 }
